@@ -1,6 +1,3 @@
-//unit5.hw
-//Group members: Alvin Zhao, Dodge Holmbeck, Jilben Brito
-
 public class DriverClassHW5 {
 	// DO NOT CHANGE ANYTHING IN THIS CLASS (DriverClass)
 	public static void main(String[] args) {
